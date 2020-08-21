@@ -17,10 +17,10 @@
           <v-layout row justify-center align-center>
 
             <v-btn color="Nightmare" @click= "dreamerAcertou(false)">
-              <v-icon>keyboard_arrow_left</v-icon> <span>Nightmare</span></v-btn>
+              <v-icon>mdi-arrow-left-bold</v-icon> <span>Nightmare</span></v-btn>
 
             <v-btn color="Sweet Dreams" @click= "dreamerAcertou(true)">
-              <span>Sweet Dreams</span> <v-icon>keyboard_arrow_right</v-icon></v-btn>
+              <span>Sweet Dreams</span> <v-icon>mdi-arrow-right-bold</v-icon></v-btn>
 
           </v-layout>
 
